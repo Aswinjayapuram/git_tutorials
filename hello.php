@@ -4,4 +4,5 @@
 	$b = 6;
 	$c = $a + $b;
 	echo $c;
+	// this is my own comment
 ?>
